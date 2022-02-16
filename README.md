@@ -14,7 +14,6 @@ I'm Elif Yaren TAT. I am a student of Software Engineering at Manisa Celal Bayar
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:elifyarentat@gmail.com">
 </a>
 
-**💼 Currently working as:** Software Developer at ALKERA IT
 
 **💻 Technologies I have worked with until today:** 
 
